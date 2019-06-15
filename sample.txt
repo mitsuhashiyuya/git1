@@ -3,3 +3,4 @@ sample test
 test at McDonald's
 
 hogehoge
+minpoke
